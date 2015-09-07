@@ -90,7 +90,7 @@ MIT © [node-weixin](blog.3gcnbeta.com)
 
 [npm-image]: https://badge.fury.io/js/node-weixin-hub.svg
 [npm-url]: https://npmjs.org/package/node-weixin-hub
-[travis-image]: https://travis-ci.org/JSSDKCN/node-weixin-hub.svg?branch=master
-[travis-url]: https://travis-ci.org/JSSDKCN/node-weixin-hub
-[daviddm-image]: https://david-dm.org/JSSDKCN/node-weixin-hub.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/JSSDKCN/node-weixin-hub
+[travis-image]: https://travis-ci.org/node-weixin/node-weixin-hub.svg?branch=master
+[travis-url]: https://travis-ci.org/node-weixin/node-weixin-hub
+[daviddm-image]: https://david-dm.org/node-weixin/node-weixin-hub.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/node-weixin/node-weixin-hub
